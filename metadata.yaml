@@ -1,0 +1,29 @@
+_repo: Madeleine-jeune-femme_51225
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boylesve, René
+    aliases:
+    - Boylesve, Rene
+    - Tardivaux, René
+    birthdate: 1867
+    deathdate: 1926
+    gutenberg_agent_id: '8323'
+    url: http://www.gutenberg.org/2009/agents/8323
+    wikipedia: http://fr.wikipedia.org/wiki/Ren%C3%A9_Boylesve
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2016-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51225'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 20th century'
+- GITenberg
+title: Madeleine, jeune femme
+url: http://www.gutenberg.org/ebooks/51225
