@@ -1,5 +1,8 @@
 _repo: Madeleine-jeune-femme_51225
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51225-h/images/cover.png
 creator:
   author:
     agent_name: Boylesve, René
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8323
     wikipedia: http://fr.wikipedia.org/wiki/Ren%C3%A9_Boylesve
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51225#Madeleine-jeune-femme
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2016-02-15'
 gutenberg_type: Text
